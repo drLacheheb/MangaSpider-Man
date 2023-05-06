@@ -1,4 +1,3 @@
-```
 # MangaSpider-Man
 
 Unleash your inner web-crawling superhero with MangaSpider-Man! This powerful web scraping project allows you to effortlessly download your favorite manga chapters from various websites. Dive into the captivating world of manga and embark on an exciting journey through its vast universe.

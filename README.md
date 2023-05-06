@@ -72,9 +72,12 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use your
 
 We would like to express our gratitude to the creators and maintainers of Scrapy and tqdm for their incredible superhuman contributions to the open-source community.
 
-## Contact
+## 📧 Contact
 
-For any questions or inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com). Feel free to bring cookies, coffee, or radioactive spiders to enhance the conversation.
+For any questions, feedback, or collaboration opportunities, you can reach me on Telegram at [@YacinoLach](https://t.me/YacinoLach). I would love to hear from you!
+
+Feel free to send me a message on Telegram, and I'll be happy to chat with you. Let's share our love for manga and discuss anything related to MangaSpider-Man!
+
 ##
 <p align="center">
   Happy manga reading with MangaSpider-Man! Enjoy the power and responsibility that comes with being a manga web-crawler.

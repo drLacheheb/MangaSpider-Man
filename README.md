@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mangaspiderman_logo.png" alt="MangaSpider-Man Logo" width="400">
+  <img src="mangaspiderman_logo.png" alt="MangaSpider-Man Logo" width="200">
 </p>
 
 <h1 align="center">MangaSpider-Man</h1>

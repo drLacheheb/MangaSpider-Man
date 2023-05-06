@@ -77,5 +77,5 @@ We would like to express our gratitude to the creators and maintainers of Scrapy
 For any questions or inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com). Feel free to bring cookies, coffee, or radioactive spiders to enhance the conversation.
 ##
 <p align="center">
-  Happy manga reading with MangaSpider-Man! Enjoy the power and responsibility that comes with being a manga web-crawler. 🚀🕷️
+  Happy manga reading with MangaSpider-Man! Enjoy the power and responsibility that comes with being a manga web-crawler.   🚀🕷️
 </p>

@@ -50,12 +50,12 @@
 
 ## Usage
 
-1. Open the `main.py` file and modify the `manga_name`, `start_chapter`, `end_chapter`, and `base_url` variables. Be the hero of your own manga adventure!
+1. Open the `manga_spider.py` file in spiders folder and modify the `manga_name`, `start_chapter`, `end_chapter`, and `base_url` variables. Be the hero of your own manga adventure!
 
 2. Execute the script:
 
    ```shell
-   python main.py
+   scrapy crawl manga
    ```
 
 3. Watch in awe as MangaSpider-Man swings through the web, downloading manga chapters faster than a speeding bullet!

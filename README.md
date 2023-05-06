@@ -74,7 +74,7 @@ We would like to express our gratitude to the creators and maintainers of Scrapy
 
 ## 📧 Contact
 
-For any questions, feedback, or collaboration opportunities, you can reach me on Telegram at [@YacinoLach](https://t.me/YacinoLach). I would love to hear from you!
+For any questions, feedback, or collaboration opportunities, you can reach me on Telegram at <a href="https://t.me/YacinoLach" target="_blank">@YacinoLach</a>. I would love to hear from you!
 
 Feel free to send me a message on Telegram, and I'll be happy to chat with you. Let's share our love for manga and discuss anything related to MangaSpider-Man!
 

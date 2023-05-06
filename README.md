@@ -78,5 +78,5 @@ For any questions or inquiries, please contact us at [your-email@example.com](ma
 ##
 <p align="center">
   Happy manga reading with MangaSpider-Man! Enjoy the power and responsibility that comes with being a manga web-crawler.
-  🚀🕷️
 </p>
+<p align="center">🚀🕷️</p>

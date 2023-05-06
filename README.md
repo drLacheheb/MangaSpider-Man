@@ -58,6 +58,3 @@ We would like to express our gratitude to the creators and maintainers of Scrapy
 For any questions or inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com).
 
 Happy manga reading with MangaSpider-Man!
-```
-
-Feel free to customize this template further to fit the specific details and requirements of your project.

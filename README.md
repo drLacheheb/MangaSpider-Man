@@ -1,6 +1,3 @@
-Certainly! Here's an enhanced version of the README for your "MangaSpider-Man" project with a more visually appealing design:
-
-```markdown
 <p align="center">
   <img src="mangaspiderman_logo.png" alt="MangaSpider-Man Logo" width="400">
 </p>
@@ -82,4 +79,3 @@ For any questions or inquiries, please contact us at [your-email@example.com](ma
 <p align="center">
   Happy manga reading with MangaSpider-Man! Enjoy the power and responsibility that comes with being a manga web-crawler. 🚀🕷️
 </p>
-```

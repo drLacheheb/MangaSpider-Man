@@ -82,4 +82,6 @@ Feel free to send me a message on Telegram, and I'll be happy to chat with you. 
 <p align="center">
   Happy manga reading with MangaSpider-Man! Enjoy the power and responsibility that comes with being a manga web-crawler.
 </p>
-<p align="center">🚀🕷️</p>
+<p align="center">
+🚀🕷️
+</p>
